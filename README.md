@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alok Mishta</h1>
+<h1 align="center">Hi 👋, I'm Alok Mishra</h1>
 <h3 align="center">A Full-Stack & Mobile Development Learner</h3>
 
 - 🔭 I’m currently working on <a href="https://github.com/alokmishra1807/ryde">Ryde</a>
