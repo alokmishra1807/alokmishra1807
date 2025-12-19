@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Mishra</h1>
-<h3 align="center">A Full-Stack & Mobile Development Learner</h3>
+<h3 align="center">A Full-Stack & App Development Learner</h3>
 
 - 🔭 I’m currently working on <a href="https://github.com/alokmishra1807/deliber">Deliber</a>
 
