@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/alokmishra1807/deliber">Deliber</a>
 
-- 🌱 I’m currently learning <b>App development in Flutter.</b>
+- 🌱 I’m currently learning <b>App development in Flutter and Agentic AI in Langchain and langGraph.</b>
 
 - 💬 Ask me about:
   - Building modern web apps (MERN & Next.js)
